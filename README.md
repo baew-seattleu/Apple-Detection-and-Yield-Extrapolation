@@ -17,6 +17,15 @@ This repository contains the complete implementation of our modular framework fo
 
 ---
 
+## Dependencies
+
+The project relies on standard scientific computing and point cloud processing libraries. All required packages are listed in `requirements.txt`.
+
+To install all dependencies at once, run:
+
+```bash
+pip install -r requirements.txt
+
 ## Quick Start
 
 1. **Open the notebook**: `AppleDetection.ipynb`
