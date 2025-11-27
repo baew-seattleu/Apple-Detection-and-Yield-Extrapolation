@@ -25,6 +25,7 @@ To install all dependencies at once, run:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Quick Start
 
